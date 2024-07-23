@@ -118,8 +118,7 @@ function App() {
   const print = () => {
     console.log(personas);
     console.log(membresias);
-
-    console.log('Hola')
+    console.timeEnd();
   };
 
   return (
