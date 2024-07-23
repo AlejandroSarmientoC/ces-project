@@ -115,12 +115,6 @@ function App() {
     setShowModal(false);
   };
 
-  const print = () => {
-    console.log(personas);
-    console.log(membresias);
-    console.timeEnd();
-  };
-
   return (
     <div className="App container-fluid grande">
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
