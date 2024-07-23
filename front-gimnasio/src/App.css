@@ -24,6 +24,10 @@
   background-color: #f8f9fa;
   background-image: none;
 }
+.prueba2{
+  background-color: antiquewhite;
+}
+
 @keyframes logo-spin {
   from {
     transform: rotate(0deg);
