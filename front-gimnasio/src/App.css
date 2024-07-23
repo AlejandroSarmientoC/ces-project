@@ -20,6 +20,14 @@
   filter: drop-shadow(0 0 2em #61dafbaa);
 }
 
+.prueba{
+  background-color: #f8f9fa;
+  background-image: none;
+}
+.prueba2{
+  background-color: antiquewhite;
+}
+
 @keyframes logo-spin {
   from {
     transform: rotate(0deg);
@@ -83,4 +91,8 @@ body {
 /* Animaciones sencillas para hover en botones */
 .btn:hover {
   opacity: 0.8;
+}
+
+.prueba{
+  margin-top: 20px;
 }
